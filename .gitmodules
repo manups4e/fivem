@@ -442,7 +442,7 @@
 [submodule "vendor/msgpack-cs"]
 	path = vendor/msgpack-cs
 	url = https://github.com/manups4e/msgpack-cs.git
-	branch = production
+	branch = master
 [submodule "vendor/boost-submodules/boost-scope"]
 	path = vendor/boost-submodules/boost-scope
 	url = https://github.com/boostorg/scope.git
